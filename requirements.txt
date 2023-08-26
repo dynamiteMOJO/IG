@@ -1,0 +1,7 @@
+
+instagrapi==1.19.8  # As of the last known version, ensure to check for updates
+logging
+numpy  # Useful for numerical operations, especially if integrating AI/ML
+pandas  # For data processing
+scikit-learn  # Basic machine learning library
+tensorflow  # Deep learning framework, if needed in the future
